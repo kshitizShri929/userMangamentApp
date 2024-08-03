@@ -1,4 +1,4 @@
- package com.keenable.user_manegement_app.controller;
+package com.keenable.user_manegement_app.controller;
 import com.keenable.user_manegement_app.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
